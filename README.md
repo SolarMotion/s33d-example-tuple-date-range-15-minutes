@@ -1,0 +1,1 @@
+# Tuple Date Range 15 Minutes Interval
